@@ -8,7 +8,7 @@
 
 .main-heading {
     font-family: "roboto";
-    font-size: 15px;
+    font-size: 20px;
     color: #cced00;
     margin-top: 20px;
     font-weight: 600;
@@ -16,31 +16,30 @@
 
 .second-heading {
     font-family: "roboto";
-    font-size: 30px;
+    font-size: 40px;
     color: white;
     font-weight: 800;
     margin-top: 10px;
 }
-
 .my-image {
-    width: 100%;
-    height:65%;
+    height: 80%;
+    width:100%;
     border-radius: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .description {
     font-family: "roboto";
-    font-size: 15px;
+    font-size: 20px;
     color: #9aa5b1;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .description-two {
     font-family: "roboto";
-    font-size: 15px;
+    font-size: 20px;
     color: #9aa5b1;
-    margin-bottom: 35px;
+    margin-bottom: 5px;
 }
 
 .bt-container {
